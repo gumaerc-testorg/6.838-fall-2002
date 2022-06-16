@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a timetable for the course project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
