@@ -12,16 +12,16 @@ Writing Resources
 -----------------
 
 *   Mayfield Handbook of Technical and Scientific Writing
-*   [The Elements of Style](http://www.bartleby.com/141/index.html)
-*   [ACM Formatting Instructions](http://www.siggraph.org/publications/instructions/)
+*   {{% resource_link "ec5cf83d-7757-425d-b9ea-ff30bc20caf8" "The Elements of Style" %}}
+*   {{% resource_link "d181b624-b3df-4625-a592-7f8cf10b388f" "ACM Formatting Instructions" %}}
 
 Graphics Programming Resources
 ------------------------------
 
-*   [FLTK](http://www.fltk.org/): ( A portable, cross-platform user interface library)
+*   {{% resource_link "cfde1b4d-e91b-469f-b821-175148c012e8" "FLTK" %}}: ( A portable, cross-platform user interface library)
 
 Readings
 --------
 
-*   [ACM Digital Library](http://portal.acm.org/portal.cfm)
-*   [Citeseer](http://citeseer.ist.psu.edu/)
+*   {{% resource_link "bb16ca56-868c-4747-a878-c5a8aa0d41cd" "ACM Digital Library" %}}
+*   {{% resource_link "6b46b332-50ca-4b9a-bc07-025b5029d21f" "Citeseer" %}}

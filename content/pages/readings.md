@@ -12,8 +12,8 @@ Readings are assigned at the end of each lecture and are due at the beginning of
 
 Information about accessing documents:
 
-*   The ACM SIGGRAPH readings are available online and can be accessed via the [ACM Portal](http://portal.acm.org/portal.cfm).
-*   It may also be faster to retrieve a paper through the [Citeseer service](http://citeseer.ist.psu.edu/).
+*   The ACM SIGGRAPH readings are available online and can be accessed via the {{% resource_link "bb16ca56-868c-4747-a878-c5a8aa0d41cd" "ACM Portal" %}}.
+*   It may also be faster to retrieve a paper through the {{% resource_link "6b46b332-50ca-4b9a-bc07-025b5029d21f" "Citeseer service" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -83,7 +83,7 @@ Open Topic
 
 Rose, Charles F.,III, Peter - Pike Sloan, and ael Cohen. "Artist-Directed Inverse Kinematic Using Radial Basis Function Interpolation_._ Eurographics Conference 2001.
 
-"[Automating gait generation](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1095&context=hms)." Harold C. Sun, Dimitris N. Metaxas. SIGGRAPH 2001.
+"{{% resource_link "e5b4e29b-e749-473e-80a5-2d24121e5078" "Automating gait generation" %}}." Harold C. Sun, Dimitris N. Metaxas. SIGGRAPH 2001.
 
 
 {{< tdclose >}}
